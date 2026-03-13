@@ -1,6 +1,6 @@
 # Project Files
 
-## Assignment 1: UART Telemetry System with Sensor Simulation
+## Part 1: UART Telemetry System with Sensor Simulation
 1. **sensor_sim.c**  
    - Simulates onboard sensors: accelerometer, gyroscope, altitude, temperature.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Assignment 2: Level-2 Telemetry System with AHRS and Visualization
+## Part 2: Level-2 Telemetry System with AHRS and Visualization
 1. **ahrs_filter.c**  
    - Implements the **Madgwick AHRS algorithm**.  
    - Computes orientation (roll, pitch, yaw) from simulated IMU data.
